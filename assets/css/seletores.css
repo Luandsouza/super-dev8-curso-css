@@ -1,0 +1,29 @@
+/* TAG
+ <img src="...." alt="...">
+*/
+
+
+img{
+    width: 300px;
+
+}
+
+/*
+ID <elemento id="the-office"...</elemento>*/
+#the-office{
+    width: 100px;
+}
+
+#breaking-bad{
+    width: 150px;
+}
+
+#the-walking-dead{
+    width: 200px;
+}
+
+.tamanho-iguais{
+    width: 250px;
+}
+
+/*. ponto é utilizado para a tag classe para compartilhar mesmo id entre elementos*/
