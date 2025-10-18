@@ -1,6 +1,6 @@
 /*CSS reset*/
 
-body{
+body {
     margin: 0;
     padding: 0;
 }
@@ -18,18 +18,20 @@ B => 0..255
 
 div {
     background-color: #004d8e;
-}
 
 
 
-a {
-    color: #FFFFFF;
-    /* text-decorantion altera a decoração do texto, none faz com que o texto não tenha nenhuma decoração*/
-    text-decoration: none;
-}
 
-/* hover é ação que ocorre quando passsar o mouse por cima do elmento*/
-a:hover{
-    color: #ff6500;
+    a {
+        color: #FFFFFF;
+        /* text-decorantion altera a decoração do texto, none faz com que o texto não tenha nenhuma decoração*/
+        text-decoration: none;
+    }
+
+    /* hover é ação que ocorre quando passsar o mouse por cima do elmento*/
+    a:hover {
+        color: #ff6500;
+
+    }
 
 }
