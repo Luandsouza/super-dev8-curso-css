@@ -133,3 +133,189 @@ div.section{
 .align-items-baseline{
     align-items: baseline;
 }
+
+.flex-wrap{
+   flex-wrap: wrap;
+}
+
+.flex-altura-2{
+    min-height: 300px;
+}
+
+.item-casa1{
+    font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.item-casa2{
+    font-size: 16px;
+    padding: 10px;
+}
+
+.item-casa3{
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+}
+
+.item-casa4{
+    font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.item-casa5{
+    font-size: 16px;
+    padding: 10px;
+}
+
+.item-casa6{
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+}
+
+.item-casa7{
+    font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.item-casa8{
+    font-size: 16px;
+    padding: 10px;
+}
+
+.item-casa9{
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+}
+
+.item-casa10{
+    font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.item-casa11{
+    font-size: 16px;
+    padding: 10px;
+}
+
+.item-casa12{
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+}
+
+.item-casa13{
+    font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.item-casa14{
+    font-size: 16px;
+    padding: 10px;
+}
+
+.item-casa15{
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+}
+
+.item-casa16{
+    font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.item-casa17{
+    font-size: 16px;
+    padding: 10px;
+}
+
+.item-casa18{
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+}
+
+.item-casa19{
+    font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.item-casa20{
+    font-size: 16px;
+    padding: 10px;
+}
+
+.item-casa21{
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+}
+
+.item-casa22{
+    font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.item-casa23{
+    font-size: 16px;
+    padding: 10px;
+}
+
+.item-casa24{
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+}
+
+.height{
+    height: min-content;
+}
+
+
+
+.align-content-flex-start{
+    align-content: flex-start;
+}
+
+.align-content-flex-end{
+    align-content: end;
+}
+
+.align-content-center{
+    align-content: center;
+}
+
+.align-content-stretch{
+    align-content: stretch;
+}
+
+.align-content-space-between{
+    align-content:space-between ;
+}
+
+.align-content-space-around{
+    align-content: space-around;
+}
+
+
+
+
